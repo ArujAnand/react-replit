@@ -8,7 +8,7 @@ function Nav()
 {
     return(
       <div>
-        <nav class="navbar px-4">
+        <nav class="navbar px-4 fixed-top">
             <a class="navbar-brand" href="/" to="/"><img src={logo} alt="logo of hospital" width="70" height="64" class="d-inline-block align-text-top"></img></a>
             <div class="nav me-auto">
                 <Link class="nav-link text-dark fw-bold" to="/">Home</Link>
