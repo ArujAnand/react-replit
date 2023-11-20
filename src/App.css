@@ -1,0 +1,73 @@
+.auth-form-container, .login-from {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(79deg, grey, #1DA1F2);
+  padding: 10vh;
+  height: 100vh;
+}
+
+.signup-from, .singup-form-container {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(79deg, #1DA1F2, grey);
+  padding: 10vh;
+  height: 100vh;
+}
+
+.forgot-password-link {
+  color: black;
+}
+
+.sign-up-link {
+  color: #ebb434;
+}
+
+.log-in-link {
+  color:azure;
+}
+
+#i1 {
+  color:yellow;
+  background-color: aquamarine;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
