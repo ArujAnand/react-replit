@@ -33,7 +33,7 @@ export const Login = () => {
                         </tr>
                         <tr>
                             <td>
-                                <label class="text-right ml-5"><a class="ml-4 forgot-password-link" href="#">Forgot
+                                <label class="text-right ml-5"><a class="ml-4 forgot-password-link" href="https://forgot.com">Forgot
                                     Password?</a></label>
                             </td>
                         </tr>

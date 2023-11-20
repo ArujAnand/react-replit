@@ -15,7 +15,7 @@ function Content() {
                 </p>
             </div>
         </div>
-    );
+    )
 }
 
 export default Content;
