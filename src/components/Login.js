@@ -43,7 +43,7 @@ function Login() {
                         </tr>
                         <tr>
                             <td class="text-center">
-                                Don't have an account! <label><a href="/">Sign up here</a></label>
+                                Don't have an account! <label><Link to="/Signup">Sign up here</Link></label>
                             </td>
                         </tr>
                     </table>
