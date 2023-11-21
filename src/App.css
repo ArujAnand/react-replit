@@ -1,3 +1,14 @@
+.std-box {
+  border: 2px solid;
+}
+
+.box {
+  border: 2px solid;
+  display: block;
+  width: 344px;
+  height: 500px;
+}
+
 .navbar {
   position: fixed;
   top: 0;
